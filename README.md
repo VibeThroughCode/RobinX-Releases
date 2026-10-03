@@ -6,9 +6,13 @@ This repository is a central home for downloadable application binaries, such as
 
 ## Downloads
 
-Visit the [Releases page](https://github.com/VibeThroughCode/RobinX-Releases/releases), find the application and version you want, and download the appropriate file from that release's **Assets** section.
+| Application | Version | Platform | Download |
+| --- | --- | --- | --- |
+| [ZPL Studio](https://github.com/VibeThroughCode/RobinX-Releases/releases/tag/zpl-studio-v1.0.0) | v1.0.0 | Windows 11 x64 | [Download ZIP](https://github.com/VibeThroughCode/RobinX-Releases/releases/download/zpl-studio-v1.0.0/ZPL-Studio-v1.0.0-win-x64.zip) |
 
-Releases will be added as application builds become available.
+**ZPL Studio:** extract the entire ZIP and double-click `ZPL-Studio-win-x64/ZplStudio.exe`. Keep the included DLL files, `Rendering`, and `Licenses` folders beside the executable. This portable build includes .NET, so no separate .NET installation is required. Open **Guide** or press **F1** for the offline manual.
+
+Visit the [Releases page](https://github.com/VibeThroughCode/RobinX-Releases/releases) for release notes, checksums, and downloads for all applications. Download application files from the release's **Assets** section.
 
 ## Release naming
 
